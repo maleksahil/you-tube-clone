@@ -346,6 +346,7 @@ p{
 
     .nav_icons{
         width: 25%;
+        height: 50%;
     }
 
 
@@ -373,6 +374,7 @@ p{
 
     .sidebar{
         z-index: 999;
+        display: none;
     }
 
 
